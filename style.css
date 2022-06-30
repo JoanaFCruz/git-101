@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	font-family: "Helvetica";
+	text-align: center;
+}
+
+h1{
+	color: blue;
+}
+
+#logo{
+	height: 80px;
+	width: 80px;
+}
